@@ -56,11 +56,11 @@ The GUI allows users to:
 ## Output Screenshots
 
 ### GUI Interface and Predictions
-![Screenshot 1](output_screenshots/screenshot1.png)  
-![Screenshot 2](output_screenshots/screenshot2.png)  
-![Screenshot 3](output_screenshots/screenshot3.png)  
+![Screenshot 1](outputs/screenshot1.png)  
+![Screenshot 2](outputs/screenshot2.png)  
+![Screenshot 3](outputs/screenshot3.png)  
 
 ### Model Accuracy Comparison Visualizations
-![Screenshot 4](output_screenshots/screenshot4.png)  
-![Screenshot 5](output_screenshots/screenshot5.png)  
+![Screenshot 4](outputs/screenshot4.png)  
+![Screenshot 5](outputs/screenshot5.png)  
 
